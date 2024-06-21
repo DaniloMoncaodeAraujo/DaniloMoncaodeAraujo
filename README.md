@@ -5,7 +5,7 @@ Sou um Desenvolvedor Front-End de 16 anos nascido na cidade de Rancho Alegre D'O
 
 ## 📲 Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-fff?style=for-the-badge&logo=linkedin&logoColor=ec63a1&color=%23f7f7f7)](https://www.linkedin.com/in/danilo-monção-de-araujo/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-fff?style=for-the-badge&logo=linkedin&logoColor=ec63a1&color=%23f7f7f7)](https://www.linkedin.com/in/danilo-mon%C3%A7%C3%A3o-de-araujo-0ba08a2b0/)
 [![Email](https://img.shields.io/badge/email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=ec63a1&color=%23f7f7f7)](mailto:danilomoncaoaraujo@gmail.com)
 [![Instagram](https://img.shields.io/badge/instagram-fff?style=for-the-badge&logo=instagram&logoColor=ec63a1&color=%23f7f7f7)](https://www.instagram.com/moncaodearaujo/)
 
