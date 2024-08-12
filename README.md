@@ -1,7 +1,8 @@
 # Danilo Monção de Araujo
 
 ✨ Olá! 
-Sou um Desenvolvedor Front-End de 16 anos nascido na cidade de Rancho Alegre D'Oeste, atualmente residindo em Rancho Alegre D'Oeste, no Paraná. Levo o "Hello World" a sério demais, e meu sonho é concluir meus objetivos através da programação.
+Sou Danilo, um Desenvolvedor Front-End de 16 anos, nascido e atualmente residindo em Rancho Alegre D'Oeste, Paraná. Em busca de transição para a área de programação, estou comprometido em aprimorar minhas habilidades e realizar meus objetivos na tecnologia. Meu sonho é criar sites e aplicações impactantes, que não apenas atendam, mas superem as expectativas dos usuários, oferecendo experiências digitais excepcionais e inovadoras.
+
 
 ## 📲 Conecte-se comigo:
 
