@@ -4,9 +4,10 @@
 
 ## 📲 Conecte-se comigo:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=fff&color=%230A66C2)
-![Email](https://img.shields.io/badge/email-%23D14836?style=for-the-badge&logo=gmail&logoColor=fff&color=%23D14836)
-![Instagram](https://img.shields.io/badge/instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=fff&color=%23C13584)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=fff&color=%230A66C2)](https://www.linkedin.com/in/danilo-mon%C3%A7%C3%A3o-de-araujo/)
+[![Email](https://img.shields.io/badge/email-%23D14836?style=for-the-badge&logo=gmail&logoColor=fff&color=%23D14836)](mailto:danilomoncaoaraujo@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=fff&color=%23C13584)](https://www.instagram.com/moncaodearaujo/)
+
 
 ## 💻 Minhas habilidades:
 
