@@ -9,12 +9,12 @@
 [![Instagram](https://img.shields.io/badge/instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=fff&color=%23C13584)](https://www.instagram.com/moncaodearaujo/)
 
 
-## 💻 Minhas habilidades:
+## 💻 Minhas habilidades/Conhecimentos:
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=fff&color=%23E34F26)
 ![CSS](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=fff&color=%231572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000&color=%23F7DF1C)
-![GitHub](https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=fff&color=%23121011)
+![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=fff&color=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23f05032?style=for-the-badge&logo=git&logoColor=fff&color=%23f05032)
 
 ## 📚💻 Estou aprendendo:
